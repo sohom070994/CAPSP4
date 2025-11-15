@@ -1,0 +1,9 @@
+*.xlsx
+*.pdf
+*.csv
+*.xlsm
+*.spfx
+*.backup
+__pycache__/
+*.png
+*.svg
